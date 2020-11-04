@@ -1,6 +1,8 @@
 # SQL-Practice-Problems
 [SQL Practice Problems](https://www.amazon.com/SQL-Practice-Problems-learn-doing/dp/1520807635) by Sylvia Moestl Vasilik
 
+With SQL Practice Problems, you can get that level of experience by solving sets of targeted problems. These aren't just problems designed as syntax examples. These are the most common problems you encounter when you deal with data
+
 ## Introductory
 
 **1.                  Which shippers do we have?**
